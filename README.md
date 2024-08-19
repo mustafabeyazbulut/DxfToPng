@@ -4,13 +4,13 @@ This application is designed to convert DXF files to PNG images using C# WinForm
 
 Key Features
 <pre>
-  Simple and User-Friendly: The application offers an intuitive interface for selecting DXF files and converting them to PNG with just a few clicks.
-  Customizable Settings: The conversion process uses paths specified in the Settings file, allowing you to customize the input and output directories.
-  High-Quality Output: The generated PNG images retain the detail and accuracy of the original DXF drawings, making them suitable for presentations or documentation.
+  1.Simple and User-Friendly: The application offers an intuitive interface for selecting DXF files and converting them to PNG with just a few clicks.
+  2.Customizable Settings: The conversion process uses paths specified in the Settings file, allowing you to customize the input and output directories.
+  3.High-Quality Output: The generated PNG images retain the detail and accuracy of the original DXF drawings, making them suitable for presentations or documentation.
   </pre>
 Requirements
 <pre>
-  Operating System: Windows
-  Framework: .NET Framework
-  Development Environment: C# WinForms
+  1.Operating System: Windows
+  2.Framework: .NET Framework
+  3.Development Environment: C# WinForms
   </pre>
