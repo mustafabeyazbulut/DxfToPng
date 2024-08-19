@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\dxftopng\\frmconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|solutionrelative:dxftopng\\frmconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\dxftopng\\frmconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|solutionrelative:dxftopng\\frmconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\dxftopng\\dxf\\dxfdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E343E41-F541-4B8C-A65F-842017D80CE0}|DxfToPng\\DxfToPng.csproj|solutionrelative:dxftopng\\dxf\\dxfdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DXFDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\DXF\\DXFDAL.cs",
+              "RelativeDocumentMoniker": "DxfToPng\\DXF\\DXFDAL.cs",
+              "ToolTip": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\DXF\\DXFDAL.cs",
+              "RelativeToolTip": "DxfToPng\\DXF\\DXFDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:22:06.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmConvert.cs",
+              "DocumentMoniker": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\frmConvert.cs",
+              "RelativeDocumentMoniker": "DxfToPng\\frmConvert.cs",
+              "ToolTip": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\frmConvert.cs",
+              "RelativeToolTip": "DxfToPng\\frmConvert.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwEgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:23:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConvert.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\frmConvert.cs",
+              "RelativeDocumentMoniker": "DxfToPng\\frmConvert.cs",
+              "ToolTip": "C:\\Users\\MBEYAZBULUT\\Desktop\\DxfToPng\\DxfToPng\\frmConvert.cs [Design]",
+              "RelativeToolTip": "DxfToPng\\frmConvert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:44:07.563Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
